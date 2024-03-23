@@ -1,5 +1,5 @@
 # Olá, meu nome é Arthur Nunes 👋
-Atualmente estou no 3º ano do Ensino Médio e estou cursando Informática na Escola Estadual de Educação Profissional Comendador Miguel Gurgel e busco ingressar no mercado de trabalho como um programador front-end. 
+Atualmente estou no 3º ano do Ensino Médio cursando Informática na Escola Estadual de Educação Profissional Comendador Miguel Gurgel e busco ingressar no mercado de trabalho como um programador front-end, para aprofundar minhas experiências, desenvolver mais as minhas habilidades. 
 ### Tecnologias que eu uso:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

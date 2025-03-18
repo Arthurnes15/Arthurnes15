@@ -75,7 +75,7 @@ Me chamo Arthur Teixeira Nunes e tenho 17 anos. Concluí meu ensino em uma escol
 <br/>
 
 ### 📊Estatísticas
-
+<p>
 <img align="left"
   alt="Github Stats"
   height="200"
@@ -83,15 +83,13 @@ Me chamo Arthur Teixeira Nunes e tenho 17 anos. Concluí meu ensino em uma escol
   src="https://github-readme-stats.vercel.app/api?username=Arthurnes15&show_icons=true&theme=dracula&locale=pt-br" 
 />
 
-<br/>
-
 <img align="center"
   alt="Labguages Stats"
   height="200"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurnes15&layout=compact&custom_title=Tecnologias&theme=dracula" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurnes15&layout=compact&custom_title=Tecnologias&theme=dracula&langs_count=9" 
 />
-
+</p>
 
 <br/>
 

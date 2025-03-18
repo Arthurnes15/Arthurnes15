@@ -1,10 +1,102 @@
-# Olá, meu nome é Arthur Nunes 👋
-Atualmente estou no 3º ano do Ensino Médio cursando Informática na Escola Estadual de Educação Profissional Comendador Miguel Gurgel e busco ingressar no mercado de trabalho como um programador front-end, para aprofundar minhas experiências, desenvolver mais as minhas habilidades. 
-### Tecnologias que eu uso:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+# 🧑🏻‍💻Arthur Nunes
+### **`🎨Desenvolvedor Frontend`**
+
+Me chamo Arthur Teixeira Nunes e tenho 17 anos. Concluí meu ensino em uma escola técnica onde tive contato com programação. Desde então, venho me especializando em Frontend e buscando desenvolver projetos com boas práticas de programação para melhorar minhas habilidades. 
+
+---
+
+### Linguagens e Tecnologias que utilizo:
+
+<img align="left"
+  alt="HTML"
+  title="HTML"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img align="left"
+  alt="CSS"
+  title="CSS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img align="left"
+  alt="JS"
+  title="JS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>     
+
+<img align="left"
+  alt="TS"
+  title="TS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>        
+
+<img align="left"
+  alt="React"
+  title="React"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img align="left"
+  alt="Redux"
+  title="Redux"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" 
+/>
+
+<img align="left"
+  alt="Bootstrap"
+  title="Bootstrap"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+<img align="left"
+  alt="GIT"
+  title="GIT"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊Estatísticas
+<img align="left"
+  alt="Github Stats"
+  height="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api?username=Arthurnes15&show_icons=true&theme=dracula&locale=pt-br" 
+/>
+
+<img align="left"
+  alt="Labguages Stats"
+  height="200"
+  style="padding-right: 10px;"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurnes15&layout=compact&custom_title=Tecnologias&theme=dracula" 
+/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Conecte-se comigo: 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurlk__/)

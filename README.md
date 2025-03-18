@@ -5,7 +5,7 @@ Me chamo Arthur Teixeira Nunes e tenho 17 anos. Concluí meu ensino em uma escol
 
 ---
 
-### Linguagens e Tecnologias que utilizo:
+### 🤖Linguagens e Tecnologias que utilizo:
 
 <img align="left"
   alt="HTML"
@@ -82,10 +82,16 @@ Me chamo Arthur Teixeira Nunes e tenho 17 anos. Concluí meu ensino em uma escol
   src="https://github-readme-stats.vercel.app/api?username=Arthurnes15&show_icons=true&theme=dracula&locale=pt-br" 
 />
 
-<img align="left"
+<img align="center"
   alt="Labguages Stats"
   height="200"
   style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurnes15&layout=compact&custom_title=Tecnologias&theme=dracula" 
 />
+
+<br/>
+
+### 📱Conecte-se comigo: 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurlk__/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-nunes-6984182b4/)
 

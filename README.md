@@ -86,6 +86,15 @@ Me chamo Arthur Teixeira Nunes e tenho 17 anos. Concluí meu ensino em uma escol
 </p>
 
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 ### 📱Conecte-se comigo: 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurlk__/)

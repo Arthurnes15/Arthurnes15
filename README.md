@@ -4,7 +4,7 @@
 
 <img align="left" src="developer.png" style="width: 300px; height: 300px" />
 
-Me chamo Arthur Teixeira Nunes, tenho 18 anos e concluí o ensino médio na escola profissionalizante EEEP Comendador Miguel Gurgel, com curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniChristus. Além disso, estou me aprofundando em React e Next, produzindo interfaces funcionais, responsivas e interativas. Estou sempre buscando aperfeiçoamento técnico e pessoal, para que os sistemas que produzo não sejam somente funcionais, mas que tenham impacto positivo no cotidiano dos seus usuários.
+Me chamo Arthur Teixeira Nunes, tenho 18 anos e concluí o ensino médio na escola profissionalizante [EEEP Comendador Miguel Gurgel](https://www.instagram.com/eeepmiguelgurgel/), com curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na [UniChristus](https://www.unichristus.edu.br/). Além disso, estou me aprofundando em React e Next, produzindo interfaces funcionais, responsivas e interativas. Estou sempre buscando aperfeiçoamento técnico e pessoal, para que os sistemas que produzo não sejam somente funcionais, mas que tenham impacto positivo no cotidiano dos seus usuários.
 
 ### ⚒️ Linguagens e Tecnologias
 
